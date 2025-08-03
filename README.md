@@ -31,7 +31,7 @@ A Swiggy-inspired food ordering app built with React 18 and Parcel as the bundle
 - Clone the repository
 
 ```sh
-git clone https://github.com/rahulsahay19/food-ordering-app.git
+git clone https://github.com/abhishekgangwar/food-ordering-app.git
 cd food-ordering-app
 ```
 
